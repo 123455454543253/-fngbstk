@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(78, 201, 238);
+    padding: 20px;
+}
+
+.rtt {
+    text-align: center;
+    background-color: rgb(78, 201, 238);
+    border-radius: 30px;
+}
+
+footer p {
+    background-color: rgb(19, 211, 70);
+}
+
+nav a {
+    background-color: rgb(78, 201, 238);
+    color: rgb(31, 5, 5);
+}
+
+.rit  {
+    border: 2px solid rgb(78, 201, 238);
+     background-color:rgb(78, 201, 238);
+    border-radius:20px;
+}
